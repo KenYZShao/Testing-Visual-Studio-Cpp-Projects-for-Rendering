@@ -2,7 +2,7 @@ There is another missed folder called AntTweakBar_116 covers the current AntTwea
 本文件夹AntTweakBar的上一个路径有一个未能上传的文件夹AntTweakBar
 External Libs\AntTweakBar_116\AntTweakBar
 https://github.com/KenYZShao/Visual-Studio-Cpp-Projects/blob/main/External%20Libs/AntTweakBar/AntTweakBar_116-Directory.JPG
-![AntTweakBar_116-Directory](https://github.com/KenYZShao/Visual-Studio-Cpp-Projects/blob/main/External%20Libs/AntTweakBar/AntTweakBar_116-Directory.JPG)
+
 
 AntTweakBar development library
 -------------------------------
